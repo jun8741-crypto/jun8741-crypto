@@ -18,7 +18,7 @@
 
 | 프로젝트 | 한 줄 | 성과 |
 |---|---|---|
-| [**KiniQ — 만성콩팥병(CKD) 생활습관 관리**](https://github.com/jun8741-crypto/kiniq) | LangGraph Self-corrective RAG + FastAPI·Redis Stream 비동기 아키텍처로 구축한 기업연계 헬스케어 웹서비스, **팀 리드·RAG·풀스택** | 🏆 **종합 2등(A)** · 주강사 "상용 서비스 수준" 평가 · 라이브 [healthypeople.kr](https://www.healthypeople.kr) |
+| [**KiniQ — 만성콩팥병(CKD) 생활습관 관리**](https://github.com/jun8741-crypto/kiniq) | LangGraph Self-corrective RAG + FastAPI·Redis Stream 비동기 아키텍처로 구축한 기업연계 헬스케어 웹서비스, **팀 리드·RAG·풀스택** | 주강사 "상용 서비스 수준" 평가 · CKD 예측 **AUROC 0.906** |
 | [**칼로리 소모량 예측 — 역공학**](https://github.com/jun8741-crypto/calorie-reverse-eng) | 트리 모델의 벽 앞에서 데이터 생성 공식(Keytel)을 역공학 복원, 숨은 단위 버그(kg→lb)까지 규명 | RMSE 0.5 → **0.02** · 리더보드 1위(비공식) |
 | [**난임 임신 성공 예측**](https://github.com/jun8741-crypto/fertility-prediction) | '표현 변환' 메타 인사이트 + 마감 D-1 Adversarial Validation 누수 검증 | 🏆 **최우수상(2등)** · Public LB 0.7424 |
 | [**GeneStarter — 반려견 유전질환 분석**](https://github.com/jun8741-crypto/gene-starter) | 유전학 도메인(좌표계·LD·멘델 유전양식)을 직접 알고리즘으로 코드화, 4,500만 변이 처리 | 🏆 **우수상(2등)** · 65.6% 압축 |
