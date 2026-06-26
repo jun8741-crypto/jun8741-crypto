@@ -10,7 +10,7 @@
 - 🎓 **공학박사** (바이오나노시스템공학, 전북대) — 나노소재·BNNT·전기방사·TEM
 - 🔬 **연구 성과** — SCI 16편, 피인용 ~1,225 / h-index 13, 등록 특허 4건
 - 🏛 **리더십** — 385억 국가 인프라사업 2건·장비 48종 총괄, **전라북도지사 표창**(2023)
-- 🤖 **현재** — 이어드림스쿨·오즈코딩 헬스케어AI 과정 이수, 데이터 사이언티스트로 전환
+- 🤖 **현재** — 이어드림스쿨·오즈코딩 헬스케어AI(KDT) **수료**(종합 석차 2등), 데이터 사이언티스트로 전환
 
 ---
 
@@ -18,6 +18,7 @@
 
 | 프로젝트 | 한 줄 | 성과 |
 |---|---|---|
+| [**KiniQ — 만성콩팥병(CKD) 생활습관 관리**](https://github.com/jun8741-crypto/kiniq) | LangGraph Self-corrective RAG + FastAPI·Redis Stream 비동기 아키텍처로 구축한 기업연계 헬스케어 웹서비스, **팀 리드·RAG·풀스택** | 🏆 **종합 2등(A)** · 주강사 "상용 서비스 수준" 평가 · 라이브 [healthypeople.kr](https://www.healthypeople.kr) |
 | [**칼로리 소모량 예측 — 역공학**](https://github.com/jun8741-crypto/calorie-reverse-eng) | 트리 모델의 벽 앞에서 데이터 생성 공식(Keytel)을 역공학 복원, 숨은 단위 버그(kg→lb)까지 규명 | RMSE 0.5 → **0.02** · 리더보드 1위(비공식) |
 | [**난임 임신 성공 예측**](https://github.com/jun8741-crypto/fertility-prediction) | '표현 변환' 메타 인사이트 + 마감 D-1 Adversarial Validation 누수 검증 | 🏆 **최우수상(2등)** · Public LB 0.7424 |
 | [**GeneStarter — 반려견 유전질환 분석**](https://github.com/jun8741-crypto/gene-starter) | 유전학 도메인(좌표계·LD·멘델 유전양식)을 직접 알고리즘으로 코드화, 4,500만 변이 처리 | 🏆 **우수상(2등)** · 65.6% 압축 |
@@ -29,7 +30,8 @@
 
 **언어·분석** `Python` `SQL` `Pandas` `NumPy` `SciPy`
 **ML·DL** `CatBoost` `LightGBM` `XGBoost` `scikit-learn` `PyTorch` `AutoGluon` `Optuna` `SHAP`
-**데이터·환경** `MySQL` `SQLAlchemy` `Parquet` `Docker` `FastAPI` `Git` `Jupyter`
+**LLM·RAG** `LangGraph` `Self-RAG` `OpenAI` `Qdrant`
+**데이터·환경** `MySQL` `PostgreSQL` `Redis` `SQLAlchemy` `Parquet` `Docker` `FastAPI` `React` `AWS` `Nginx` `Git` `Jupyter`
 
 ---
 
